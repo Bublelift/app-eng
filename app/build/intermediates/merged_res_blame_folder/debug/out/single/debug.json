@@ -1,0 +1,350 @@
+[
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-mdpi_ic_launcher_foreground_foreground.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-mdpi\\ic_launcher_foreground_foreground.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_baseline_photo_camera_24.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_baseline_photo_camera_24.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_chat_lobby_layout.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\chat_lobby_layout.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_webrtc.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\webrtc.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_fiszki.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\fiszki.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_baseline_videocam_24.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_baseline_videocam_24.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_error.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_error.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_baseline_mic_off_24.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_baseline_mic_off_24.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_curve_background.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\curve_background.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_feedback.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_feedback.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_quiz.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_quiz.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_report_36.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\report_36.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_spinner_bg.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\spinner_bg.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_new_msg.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\new_msg.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_lock.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\lock.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_chat_input.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\chat_input.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_new_msg2.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\new_msg2.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_summary.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_summary.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_item_person.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\item_person.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_unscramble.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\unscramble.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_people.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_people.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_video_chat_layout.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\video_chat_layout.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_flashcard.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_flashcard.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_zagadki.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\zagadki.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-anydpi-v26\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_check.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\check.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_memo.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_memo.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_memo.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\memo.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_my_account.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_my_account.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_fill_in_blank_bg.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\fill_in_blank_bg.xml"
+    },
+    {
+        "merged": "com.example.owocewarzywa.app-merged_res-49:/layout_fragment_my_account.xml.flat",
+        "source": "com.example.owocewarzywa.app-main-51:/layout/fragment_my_account.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_google_30dp.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\google_30dp.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\navigation_nav_graph.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_translator.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_translator.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_unscramble.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_unscramble.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_practice_settings.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_practice_settings.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_no_profile.jpg.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\no_profile.jpg"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher_foreground_foreground.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-xxhdpi\\ic_launcher_foreground_foreground.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_baseline_call_end_24.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_baseline_call_end_24.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_fill.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_fill.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_baseline_hearing_24.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_baseline_hearing_24.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_my_chat_bubble.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\my_chat_bubble.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_splash12.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\splash12.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_baseline_mic_24.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_baseline_mic_24.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_baseline_cameraswitch_24.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_baseline_cameraswitch_24.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-hdpi_ic_launcher_foreground_foreground.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-hdpi\\ic_launcher_foreground_foreground.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_chat.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_save_24.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_save_24.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_other_chat_bubble.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\other_chat_bubble.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_baseline_speaker_up_24.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_baseline_speaker_up_24.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_login.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_baseline_send_24.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_pickup.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_pickup.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_quiz.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\quiz.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\xml_network_security_config.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_start.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_start.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_luki.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\luki.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_cross.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\cross.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_logo.PNG.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\logo.PNG"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_ic_baseline_videocam_off_24.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\ic_baseline_videocam_off_24.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_report_24.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\report_24.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_branding12.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\branding12.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_puzzle.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_puzzle.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_chat_message.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\chat_message.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_greeting.jpg.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\greeting.jpg"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_activity_main.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\drawable_circle_background.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\drawable\\circle_background.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_practice_select.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_practice_select.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher_foreground_foreground.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-xxxhdpi\\ic_launcher_foreground_foreground.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_register.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\mipmap-xhdpi_ic_launcher_foreground_foreground.png.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-debug-50:\\mipmap-xhdpi\\ic_launcher_foreground_foreground.png"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\layout_fragment_settings.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-merged_res-49:\\menu_bar.xml.flat",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\menu\\bar.xml"
+    }
+]

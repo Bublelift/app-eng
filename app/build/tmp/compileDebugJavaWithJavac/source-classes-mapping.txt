@@ -1,0 +1,35 @@
+com/example/owocewarzywa/databinding/FragmentSummaryBindingImpl.java
+ com.example.owocewarzywa.databinding.FragmentSummaryBindingImpl
+com/example/owocewarzywa/databinding/FragmentStartBinding.java
+ com.example.owocewarzywa.databinding.FragmentStartBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/owocewarzywa/generated/callback/OnClickListener.java
+ com.example.owocewarzywa.generated.callback.OnClickListener
+ com.example.owocewarzywa.generated.callback.OnClickListener$Listener
+com/example/owocewarzywa/BR.java
+ com.example.owocewarzywa.BR
+com/example/owocewarzywa/databinding/FragmentFlavorBindingImpl.java
+ com.example.owocewarzywa.databinding.FragmentFlavorBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/owocewarzywa/databinding/FragmentPickupBinding.java
+ com.example.owocewarzywa.databinding.FragmentPickupBinding
+com/example/owocewarzywa/BuildConfig.java
+ com.example.owocewarzywa.BuildConfig
+com/example/owocewarzywa/databinding/FragmentSummaryBinding.java
+ com.example.owocewarzywa.databinding.FragmentSummaryBinding
+com/example/owocewarzywa/DataBinderMapperImpl.java
+ com.example.owocewarzywa.DataBinderMapperImpl
+ com.example.owocewarzywa.DataBinderMapperImpl$InnerBrLookup
+ com.example.owocewarzywa.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/owocewarzywa/DataBindingTriggerClass.java
+ com.example.owocewarzywa.DataBindingTriggerClass
+com/example/owocewarzywa/databinding/FragmentFlavorBinding.java
+ com.example.owocewarzywa.databinding.FragmentFlavorBinding
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/owocewarzywa/databinding/FragmentStartBindingImpl.java
+ com.example.owocewarzywa.databinding.FragmentStartBindingImpl
+com/example/owocewarzywa/databinding/FragmentPickupBindingImpl.java
+ com.example.owocewarzywa.databinding.FragmentPickupBindingImpl

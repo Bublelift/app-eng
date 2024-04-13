@@ -1,0 +1,152 @@
+package com.example.owocewarzywa.utils
+
+import android.content.Context
+import android.util.Log
+import androidx.lifecycle.LiveData
+import androidx.lifecycle.ViewModel
+import com.example.owocewarzywa.model.*
+import com.example.owocewarzywa.recyclerview.item.PersonItem
+import com.example.owocewarzywa.recyclerview.item.TextMessageItem
+import com.google.apphosting.datastore.testing.DatastoreTestTrace.FirestoreV1Action.Listen
+import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.firestore.DocumentReference
+import com.google.firebase.firestore.FirebaseFirestore
+import com.google.firebase.firestore.ListenerRegistration
+import com.google.firebase.firestore.ktx.toObject
+import com.xwray.groupie.kotlinandroidextensions.Item
+//JK
+object FirestoreUtil {
+    private val firestoreInstance: FirebaseFirestore by lazy { FirebaseFirestore.getInstance() }
+
+    private val currentUserDocRef: DocumentReference
+        get() = firestoreInstance.document("users/${FirebaseAuth.getInstance().uid}")
+
+    private val chatChannelsCollectionRef = firestoreInstance.collection("chatChannels")
+
+    private var userList = "swing" ?: null
+
+    fun updateCurrentUser(name: String = "", bio: String = "", profilePicturePath: String? = null) {
+        val userFieldMap = mutableMapOf<String, Any>()
+        userFieldMap["uid"] = FirebaseAuth.getInstance().currentUser!!.uid
+        if (name.isNotBlank()) userFieldMap["name"] = name
+        if (bio.isNotBlank()) userFieldMap["bio"] = bio
+        if (profilePicturePath != null) userFieldMap["profilePicturePath"] = profilePicturePath
+        currentUserDocRef.update(userFieldMap)
+    }
+
+    fun initCurrentUserIfFirstTime(onComplete: () -> Unit) {
+        currentUserDocRef.get().addOnSuccessListener { documentSnapshot ->
+            if (!documentSnapshot.exists()) {
+                val newUser = User(
+                    name = FirebaseAuth.getInstance().currentUser?.displayName ?: "",
+                    bio = "",
+                    profilePicturePath = null,
+                    score = 0L
+                )
+                currentUserDocRef.set(newUser).addOnSuccessListener { onComplete() }
+            } else onComplete()
+        }
+    }
+
+    fun getCurrentUser(onComplete: (User) -> Unit) {
+        Log.e("FirestoreUtil", currentUserDocRef.get().toString())
+        currentUserDocRef.get().addOnSuccessListener { onComplete(it.toObject(User::class.java)!!) }
+    }
+
+    fun addUsersListener(context: Context, onListen: (List<Item>) -> Unit): ListenerRegistration {
+        return firestoreInstance.collection("users")
+            .addSnapshotListener { querySnapshot, firebaseFirestoreException ->
+                if (firebaseFirestoreException != null) {
+                    Log.e(
+                        "Firestore",
+                        "Dupa na firestoreutil.kt 59",
+                        firebaseFirestoreException
+                    )
+                    return@addSnapshotListener
+                }
+                val items = mutableListOf<Item>()
+                querySnapshot?.documents?.forEach {
+                    if (it.id != FirebaseAuth.getInstance().currentUser?.uid)
+                        items.add(PersonItem(it.toObject(User::class.java)!!, it.id, context))
+                }
+                onListen(items)
+            }
+    }
+
+    fun removeListener(registration: ListenerRegistration) = registration.remove()
+
+    fun getOrCreateChatChannel(otherUserId: String, onComplete: (channelId: String) -> Unit) {
+        currentUserDocRef.collection("engagedChatChannels").document(otherUserId).get()
+            .addOnSuccessListener {
+                if (it.exists()) {
+                    onComplete(it["channelId"] as String)
+                    return@addOnSuccessListener
+                }
+
+                val currentUserId = FirebaseAuth.getInstance().currentUser!!.uid
+                val newChannel = chatChannelsCollectionRef.document()
+                newChannel.set(ChatChannel(mutableListOf(currentUserId, otherUserId)))
+                currentUserDocRef.collection("engagedChatChannels")
+                    .document(otherUserId)
+                    .set(mapOf("channelId" to newChannel.id))
+
+                firestoreInstance.collection("users").document(otherUserId)
+                    .collection("engagedChatChannels")
+                    .document(currentUserId)
+                    .set(mapOf("channelId" to newChannel.id))
+
+                onComplete(newChannel.id)
+            }
+    }
+
+    fun addChatMessagesListener(channelId: String, context: Context, onListen: (List<Item>) -> Unit) : ListenerRegistration {
+        return chatChannelsCollectionRef.document(channelId).collection("messages").orderBy("time")
+            .addSnapshotListener{
+                querySnapshot, firebaseFirestoreException ->
+                if (firebaseFirestoreException != null) {
+                    Log.e("FirestoreException", "Wywaliło się na FirestoreUtil 102", firebaseFirestoreException)
+                    return@addSnapshotListener
+                }
+                
+                val items = mutableListOf<Item>()
+                querySnapshot!!.documents.forEach {
+                    items.add(TextMessageItem(it.toObject(TextMessage::class.java)!!, context))
+                }
+                onListen(items)
+            }
+    }
+
+    fun sendMessage(message: TextMessage, channelId: String) {
+        chatChannelsCollectionRef.document(channelId).collection("messages").add(message)
+    }
+
+    fun getMsgReadStatus(chatroomId: String, onSuccess: (toReadBy: String) -> Unit){
+        var toReadBy: String? = null
+        chatChannelsCollectionRef.document(chatroomId).get()
+            .addOnSuccessListener { if (it.exists()) {
+                    toReadBy = it["status"].toString()
+                }
+                if (toReadBy == null || toReadBy!!.isBlank())
+                    onSuccess("")
+                else onSuccess(toReadBy!!)
+            }
+    }
+
+    fun setMsgReadStatus(chatroomId: String, status: String) {
+        val currentUserId = FirebaseAuth.getInstance().currentUser!!.uid
+        chatChannelsCollectionRef.document(chatroomId).update("status", status)
+    }
+
+    fun sendFeedback(feedback: String) {
+        firestoreInstance.collection("feedbacks").add(
+            mapOf("uid" to FirebaseAuth.getInstance().currentUser!!.uid, "feedback" to feedback)
+        )
+    }
+
+    fun updateUserScore(score: Int) {
+        currentUserDocRef.get().addOnSuccessListener {
+            val current_score = ((it.data?.get("score") as Long?)?.toInt() ?: 0) + score
+            currentUserDocRef.update("score", current_score)
+        }
+    }
+}

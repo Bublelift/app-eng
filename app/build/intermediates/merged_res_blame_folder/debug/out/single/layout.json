@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_unscramble.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_unscramble.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_feedback.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_feedback.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_pickup.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_pickup.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_fill.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_fill.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_flashcard.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_flashcard.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_summary.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_summary.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_settings.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_memo.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_memo.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_puzzle.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_puzzle.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_start.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_start.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_login.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_chat.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_register.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_practice_settings.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_practice_settings.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_quiz.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_quiz.xml"
+    },
+    {
+        "merged": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-mergeDebugResources-48:\\layout\\fragment_practice_select.xml",
+        "source": "B:\\MobileDev\\.gradle\\daemon\\7.4\\com.example.owocewarzywa.app-main-51:\\layout\\fragment_practice_select.xml"
+    },
+    {
+        "merged": "com.example.owocewarzywa.app-mergeDebugResources-48:/layout/fragment_practice_select.xml",
+        "source": "com.example.owocewarzywa.app-main-51:/layout/fragment_practice_select.xml"
+    }
+]

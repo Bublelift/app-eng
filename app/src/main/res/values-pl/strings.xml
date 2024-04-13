@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Językowy zawrót głowy</string>
+    <string name="pref_speakerphone_key">speakerphone_preference</string>
+    <string name="pref_speakerphone_default">auto</string>
+    <string name="order_cupcakes">Eluwina</string>
+    <string name="one_cupcake">To nie działa :)</string>
+    <string name="six_cupcakes">To też nie działa :)</string>
+    <string name="twelve_cupcakes">A to jest dziadostwo :)</string>
+    <string name="choose_flavor">Choose Flavor</string>
+    <string name="vanilla">Vanilla</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="red_velvet">Red Velvet</string>
+    <string name="salted_caramel">Salted Caramel</string>
+    <string name="coffee">Coffee</string>
+    <string name="special_flavor">Special Flavor</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="register_here">Kliknij <u>tutaj</u>, aby się zarejestrować</string>
+    <string name="login_here">Kliknij <u>tutaj</u>, aby się zalogować</string>
+    <string name="choose_pickup_date">Choose Pickup Date</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="send">Wyślij</string>
+    <string name="file_a_feedback">Prześlij nam feedback lub zgłoś nadużycie</string>
+    <string name="quantity">Quantity</string>
+    <string name="flavor">Flavor</string>
+    <string name="pickup_date">Pickup date</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">New Cupcake Order</string>
+    <string name="client_id">893951167200-ktrh74ir4qpmrp5eceh9l9oi9qmmr2pg.apps.googleusercontent.com</string>
+    <string name="order_details">Quantity: %1$s \n Flavor: %2$s \nPickup date: %3$s \n
+        Total: %4$s \n\n Thank you!</string>
+    <!--    <plurals name="cupcakes">-->
+    <!--        <item quantity="one">%d cupcake</item>-->
+    <!--        <item quantity="other">%d cupcakes</item>-->
+    <!--    </plurals>-->
+    <string name="video_chat_label">Instrukcja: ustalcie wraz ze znajomym na czacie hasło do pokoju. Ustalcie również kto rozpoczyna rozmowę. Pierwsza osoba powinna wybrać opcję Rozpocznij, a druga opcję Dołącz.</string>
+    <string name="lang_pl">Polski</string>
+    <string name="lang_en">Angielski</string>
+    <string name="lang_ge">Niemiecki (wkrótce)</string>
+
+    <string name="tpc_nat">Natura</string>
+    <string name="tpc_lif">Styl życia</string>
+    <string name="tpc_tec">Technologia</string>
+
+    <string name="dif_ez">Łatwy</string>
+    <string name="dif_hd">Trudny</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_room_id">Wpisz hasło pokoju</string>
+    <string name="join_room">Dołącz</string>
+    <string name="create_room">Rozpocznij</string>
+    <string name="score">Wynik: </string>
+    <string name="your_score">Twój wynik: </string>
+    <string name="start_call">Rozpocznij</string>
+    <string name="join_call">Dołącz</string>
+    <string name="score_info">Rozwiązuj ćwiczenia i gry językowe, aby zdobywać punkty!</string>
+</resources>
